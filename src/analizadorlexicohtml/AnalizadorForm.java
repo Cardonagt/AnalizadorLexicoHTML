@@ -14,7 +14,7 @@ public class AnalizadorForm extends javax.swing.JFrame {
         setLocationRelativeTo(null); // Centrar la ventana
 
         try {
-    java.io.File file = new java.io.File("E:\\OneDrive - Grupo Disresa\\Otros\\Documentos\\NetBeansProjects\\AnalizadorLexicoHTML\\logo.png");
+    java.io.File file = new java.io.File("E:\\OneDrive - Grupo Disresa\\Otros\\Documentos\\NetBeansProjects\\AnalizadorLexicoHTML\\recursos\\logo.png");
     java.net.URL imgURL = file.toURI().toURL();
     if (imgURL != null) {
         java.awt.Image img = new javax.swing.ImageIcon(imgURL).getImage();

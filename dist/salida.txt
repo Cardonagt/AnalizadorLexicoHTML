@@ -1,0 +1,6 @@
+Línea          Columna                  Tipo                                              Valor                              
+°°°°°°°°|°°°°°°°°°°°°°°°°°|°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°|°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°|
+1              0        TEXTO                    #Sun, 23 Mar 2025 00:16:05 -0600
+
+
+E\:\\OneDrive\ -\ Grupo\ Disresa\\Otros\\Documentos\\NetBeansProjects\\AnalizadorLexicoHTML=
