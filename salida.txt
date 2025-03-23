@@ -1,0 +1,34 @@
+Línea          Columna                  Tipo                                              Valor                              
+°°°°°°°°|°°°°°°°°°°°°°°°°°|°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°|°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°|
+1              0        MENOR_QUE                <                             
+1              1        TEXTO                    !DOCTYPE html                 
+1              14       FIN_ETIQUETA             >                             
+2              0        ETIQUETA_APERTURA        <html                         
+2              5        FIN_ETIQUETA             >                             
+3              0        ETIQUETA_APERTURA        <head                         
+3              5        FIN_ETIQUETA             >                             
+4              4        ETIQUETA_APERTURA        <title                        
+4              10       FIN_ETIQUETA             >                             
+4              11       TEXTO                    Mi Página                     
+4              20       ETIQUETA_CIERRE          </title>                      
+5              0        ETIQUETA_CIERRE          </head>                       
+6              0        ETIQUETA_APERTURA        <body                         
+6              5        FIN_ETIQUETA             >                             
+7              4        ETIQUETA_APERTURA        <h1                           
+7              7        TEXTO                    class="titulo"                
+7              22       FIN_ETIQUETA             >                             
+7              23       TEXTO                    Bienvenidos                   
+7              34       ETIQUETA_CIERRE          </h1>                         
+8              4        ETIQUETA_APERTURA        <p                            
+8              6        TEXTO                    id="intro"                    
+8              17       FIN_ETIQUETA             >                             
+8              18       TEXTO                    Esta es una página de prueba. 
+8              47       ETIQUETA_CIERRE          </p>                          
+9              4        COMENTARIO               <!-- Esto es un comentario -->
+10             4        ETIQUETA_APERTURA        <a                            
+10             6        TEXTO                    href="https://example.com"    
+10             33       FIN_ETIQUETA             >                             
+10             34       TEXTO                    Enlace                        
+10             40       ETIQUETA_CIERRE          </a>                          
+11             0        ETIQUETA_CIERRE          </body>                       
+12             0        ETIQUETA_CIERRE          </html>                       
