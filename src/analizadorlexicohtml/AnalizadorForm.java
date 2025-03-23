@@ -17,7 +17,9 @@ public class AnalizadorForm extends javax.swing.JFrame {
     java.io.File file = new java.io.File("E:\\OneDrive - Grupo Disresa\\Otros\\Documentos\\NetBeansProjects\\AnalizadorLexicoHTML\\recursos\\logo.png");
     java.net.URL imgURL = file.toURI().toURL();
     if (imgURL != null) {
-        java.awt.Image img = new javax.swing.ImageIcon(imgURL).getImage();
+        java.awt.Image img
+                
+                = new javax.swing.ImageIcon(imgURL).getImage();
         java.awt.Image scaledImg = img.getScaledInstance(190, 110, java.awt.Image.SCALE_SMOOTH);
         lblLogo.setIcon(new javax.swing.ImageIcon(scaledImg));
     } else {
