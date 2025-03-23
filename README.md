@@ -21,7 +21,7 @@ Este proyecto es un analizador léxico para archivos HTML, desarrollado en Java 
 ## Ejemplo
 **Entrada (`html.txt`)**:
 
-<!DOCTYPE html> <html> <head> <title>Mi Página</title> </head> <body> <h1 class="titulo">Bienvenidos</h1> <p id="intro">Esta es una página de prueba.</p> <!-- Esto es un comentario --> <a href="https://example.com">Enlace</a> </body> </html> ```
+- **`<!DOCTYPE html> <html> <head> <title>Mi Página</title> </head> <body> <h1 class="titulo">Bienvenidos</h1> <p id="intro">Esta es una página de prueba.</p> <!-- Esto es un comentario --> <a href="https://example.com">Enlace</a> </body> </html>.
 
 Salida (en la ventana y en salida.txt):
 Línea  Columna  Tipo                  Valor
